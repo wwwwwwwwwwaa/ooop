@@ -1,4 +1,4 @@
-# My Repository
+# ooop
 
 이 저장소는 Cursor와 GitHub 연동을 위해 생성되었습니다.
 
@@ -8,6 +8,6 @@
 
 ## 시작하기
 ```bash
-git clone https://github.com/wwwwwwwwwwaa/repo.git
-cd repo
+git clone https://github.com/wwwwwwwwwwaa/ooop.git
+cd ooop
 ```
